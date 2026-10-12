@@ -1,8 +1,27 @@
-# Hi there, I'm Agustin Nari 👋
 
-I'm a **Computer Engineering student** at Universidad Argentina de la Empresa (UADE), based in Argentina, with hands-on project experience in software development, databases, systems integration, and data-oriented solutions.
+<h1 align="center">Hi there, I'm Agustin Nari 👋</h1>
 
-My strongest technical foundation is **Java and backend development**, complemented by work with **web and mobile applications, CI/CD, analytics, and numerical simulation**. I enjoy solving problems, understanding how systems fit together, and collaborating to turn ideas into working solutions.
+<p align="center">
+  <strong>Computer Engineering student at UADE</strong><br>
+  Java &amp; Spring Boot · Web &amp; mobile · Data · Systems integration
+</p>
+
+<p align="center">
+  <em>Before the code, the question.<br>
+  Beyond the code, the system.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/agustin-nari">LinkedIn</a> ·
+  <a href="mailto:agusnari21@gmail.com">Email</a> ·
+  <a href="https://github.com/AgustinNari?tab=repositories">Repositories</a>
+</p>
+
+## About me
+
+I'm interested in understanding the **people, processes, and constraints** behind a problem, then turning those insights into **practical solutions** across software, data, and systems. I value asking the right questions, exploring the broader context, and considering how different parts of a solution work together.
+
+My strongest technical foundation is **Java and backend development**. Through individual and collaborative projects, I've also worked with **web and mobile applications, databases, systems integration, CI/CD, analytics, and numerical simulation**.
 
 ## Technologies I've worked with
 
@@ -20,10 +39,10 @@ My strongest technical foundation is **Java and backend development**, complemen
 | Project | Focus |
 | --- | --- |
 | **Citizen Services — Module 2** · [Backend (dev)](https://github.com/JuanmaGuida/Backend-DAMII/tree/dev) · [Infrastructure](https://github.com/AgustinNari/citizen-services-m2-infra) | Collaborative ticket-management platform. I contributed to backend features, API documentation, validation, testing, containerization, and CI/CD configuration. |
-| **QuickBid** · [Backend](https://github.com/AgustinNari/quickbid-backend) · [Mobile](https://github.com/AgustinNari/quickbid-mobile) | Mobile auction platform built with Java/Spring Boot, PostgreSQL, React Native, and real-time WebSocket communication. |
-| **KeysHaven** · [Backend](https://github.com/AgustinNari/keyshaven-backend) · [Frontend](https://github.com/AgustinNari/keyshaven-frontend) | Digital-key marketplace featuring authentication, product management, shopping carts, orders, and seller/admin workflows. |
+| **QuickBid** · [Backend](https://github.com/AgustinNari/quickbid-backend) · [Mobile](https://github.com/AgustinNari/quickbid-mobile) | Collaborative mobile auction platform built with Java/Spring Boot, PostgreSQL, React Native, and real-time WebSocket communication. |
+| **KeysHaven** · [Backend](https://github.com/AgustinNari/keyshaven-backend) · [Frontend](https://github.com/AgustinNari/keyshaven-frontend) | Collaborative digital-key marketplace featuring authentication, product management, shopping carts, orders, and seller/admin workflows. |
 | **BreakBuddy** · [Android app](https://github.com/AgustinNari/breakbuddy-android) | Collaborative Kotlin/Firebase application focused on workplace well-being, groups, activities, chat, and reminders. |
-| **Polyglot Persistence** · [Repository](https://github.com/AgustinNari/polyglot-persistence) | Java console application integrating SQL Server, MongoDB, Redis, and Cassandra for different data-management needs. |
+| **Polyglot Persistence** · [Repository](https://github.com/AgustinNari/polyglot-persistence) | Collaborative Java console application integrating SQL Server, MongoDB, Redis, and Cassandra for different data-management needs. |
 | **Deadlock Playtest Analytics** · [Repository](https://github.com/AgustinNari/deadlock-playtest-analytics) | React/TypeScript analytics dashboard exploring game metrics and data-warehouse concepts using simulated datasets. |
 
 ### Selected collaborative contributions
@@ -34,4 +53,4 @@ My merged pull requests for the Citizen Services backend include [identity-provi
 
 [Reaction Challenge (Android)](https://github.com/AgustinNari/reaction-challenge-android) · [Mental Math Challenge (React Native)](https://github.com/AgustinNari/mental-math-game-mobile) · [F1 Strategy Simulator (collaborative)](https://github.com/AgustinNari/f1-strategy-simulator) · [Aerial Pursuit Simulation (collaborative)](https://github.com/AgustinNari/aerial-pursuit-simulation) · [Numerical Methods Solver (collaborative)](https://github.com/AgustinNari/numerical-methods-solver)
 
-I'm interested in opportunities to contribute, keep learning, and work across software, data, systems integration, and related technical areas.
+I'm open to opportunities across software development, data, systems integration, and related technology fields.
