@@ -11,11 +11,12 @@
   Beyond the code, the system.</em>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/agustin-nari">LinkedIn</a> ·
-  <a href="mailto:agusnari21@gmail.com">Email</a> ·
-  <a href="https://github.com/AgustinNari?tab=repositories">Repositories</a>
-</p>
+&lt;p align="center"&gt;
+  &lt;a href="https://agustinnari.com"&gt;Portfolio&lt;/a&gt; ·
+  &lt;a href="https://www.linkedin.com/in/agustin-nari"&gt;LinkedIn&lt;/a&gt; ·
+  &lt;a href="mailto:agusnari21@gmail.com"&gt;Email&lt;/a&gt; ·
+  &lt;a href="https://github.com/AgustinNari?tab=repositories"&gt;Repositories&lt;/a&gt;
+&lt;/p&gt;
 
 ## About me
 
